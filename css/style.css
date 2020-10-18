@@ -1,4 +1,10 @@
- body {
+a:hover{color:white; background-color:black;}
+a:visited{color:blue;}
+
+
+
+
+body {
   font-family: "HelveticaNeue", "Helvetica", Arial, sans-serif;
 }
 
